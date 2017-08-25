@@ -1,1 +1,1 @@
-This will show if the repo can handle
+This will show if the repo can handle this svn to git transfer
